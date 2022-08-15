@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+.body {
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+}
+.app{
+  height: 600px;
+  width: 100vh;
+  padding-left: 400px;
+
+}
+.app .search-bar{
+  padding-bottom: 50px;
+  /* margin: 10px; */
+}
+.app .search-bar h1{
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app .search-bar .longitude{
+  display: flex;
+  text-align: center;
+  margin : 0 auto;
+}
+.app .search-bar .latitude{
+  display: flex;
+  text-align: center;
+  margin : 0 auto;
+}
+.map{
+  height: 100%;
+  width: 100%;
+}
+.marker{
+  background-image: url("../images/delivery_guy.png");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  background-color: yellow;
+  border-radius: 11px ;
+  border: solid 3px darkslategray;
+}
+.marker-delivery {
+  background-color: red;
+  height: 22px;
+  width: 22px;
+}
