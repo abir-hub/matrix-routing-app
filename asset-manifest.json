@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matrix-routing-app/static/css/main.26520e06.css",
+    "main.js": "/matrix-routing-app/static/js/main.0674efc4.js",
+    "index.html": "/matrix-routing-app/index.html",
+    "main.26520e06.css.map": "/matrix-routing-app/static/css/main.26520e06.css.map",
+    "main.0674efc4.js.map": "/matrix-routing-app/static/js/main.0674efc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26520e06.css",
+    "static/js/main.0674efc4.js"
+  ]
+}
